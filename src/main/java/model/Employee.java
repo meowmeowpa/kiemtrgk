@@ -4,7 +4,7 @@ public class Employee {
     private int id;
     private String name;
     private int age;
-    private  String Position;
+    private String Position;
     private String Department;
     private double Salary;
 
